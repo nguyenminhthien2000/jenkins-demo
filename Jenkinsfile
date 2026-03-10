@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Day la pipeline tu dong chay tu GitHub!'
+                echo 'Webhook test: He thong da tu dong nhan dien code moi!'
             }
         }
     }
